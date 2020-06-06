@@ -53,7 +53,7 @@ Follow the link to the [Netlify url.](https://lundeen-bryan-block-manipulation.n
 
 MIT License
 
-Copyright (c) [2017] [James Q Quick]
+Copyright (c) [2020] [Bryan Lundeen]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
