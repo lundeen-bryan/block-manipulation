@@ -3,6 +3,7 @@
 ![Project Image](./images/blocks.png)
 
 > Block manipulation was a small javascript project from Vertex Academy.
+[Hosted on Netlify](https://lundeen-bryan-block-manipulation.netlify.app/)
 
 ---
 
