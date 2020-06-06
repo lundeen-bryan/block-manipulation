@@ -2,13 +2,16 @@
 
 ![Project Image](./images/blocks.png)
 
-> Block manipulation was a small javascript project from Vertex Academy.
-[Hosted on Netlify](https://lundeen-bryan-block-manipulation.netlify.app/)
+> Block manipulation was a small javascript project as part of a course taught by Vertex Academy.
+
+### Live Demo
+
+[View this project on Netlify](https://lundeen-bryan-block-manipulation.netlify.app/)
 
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
+The following information is available in this readme file.
 
 - [Description](#description)
 - [How To Use](#how-to-use)
@@ -33,16 +36,11 @@ Small javascript demonstration to show the different ways to manipulate a block 
 
 ## How To Use
 
+Each block in the top of the page is a control to move or change how the red block is displayed. 
+
 #### Installation
 
-
-
-#### API Reference
-
-```html
-    <p>dummy code</p>
-```
-[Back To The Top](#block-manipulation)
+Follow the link to the [Netlify url.](https://lundeen-bryan-block-manipulation.netlify.app/)
 
 ---
 
