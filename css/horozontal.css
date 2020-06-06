@@ -1,0 +1,15 @@
+.horizontal{
+  width: 100px;
+  margin: 0 auto;
+}
+
+.horizontal input{
+  width: 100px;
+}
+
+.horizontal label{
+  width: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+

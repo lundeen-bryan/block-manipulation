@@ -1,0 +1,20 @@
+.block{
+  width: 9.375rem;
+  height: 9.375rem;
+  background: linear-gradient(to top, #333 0%, #666 30%, #333 100%);
+  box-shadow: inset 2px 2px 5px 2px #333;
+  border-radius: 10px;
+  display: inline-block;
+  vertical-align: top;
+  color: #ffffff;
+}
+
+#block{
+  width: 150px;
+  height: 150px;
+  background-color: red;
+  position: absolute;
+  left: 0;
+  top: 0;
+  
+}
